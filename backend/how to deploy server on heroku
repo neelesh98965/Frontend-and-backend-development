@@ -1,0 +1,17 @@
+1.how to deploy an app on heroku
+
+2.first create git repository
+
+git init
+git add .
+git commit -m "add comment"
+
+
+3.then create heroku
+
+heroku create
+
+4.then uploading the data on server by typing
+
+git push heroku master
+
